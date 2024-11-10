@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 |   Age   |   18    |
 | School  |  UESTC  |
 
+    #include <stdio.h>
+    int main(){
+      printf("Hello World!");
+      return 0;
+    }
